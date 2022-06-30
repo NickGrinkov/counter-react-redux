@@ -2,7 +2,7 @@
 
 ## Как начать использовать проект:
 
-- Склонируйте репозиторий к себе на компьютер командой npm clone https://github.com/NickGrinkov/counter-react-redux.git
+- Склонируйте репозиторий к себе на компьютер командой git clone https://github.com/NickGrinkov/counter-react-redux.git
 - Установите зависимости командой npm install
 - Когда все зависимости будут установлены, запустите проект командой npm run start
 
